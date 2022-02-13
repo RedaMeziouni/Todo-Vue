@@ -3,8 +3,10 @@
 <p align="center"><img src="./src/assets/preview.png"/></p>
 
 ## The backend part of this project
+
+Link 
 ```
-Link =>  https://github.com/RedaMeziouni/todo-golang
+https://github.com/RedaMeziouni/todo-golang
 ```
 
 ## Project setup
