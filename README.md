@@ -1,4 +1,11 @@
-# go-todos
+# Simple TODO LIST (VueJS + Golang)
+
+<p align="center"><img src="./img/pgcd using Euclide.png"/></p>
+
+## The backend part of this project
+```
+Link =>  https://github.com/RedaMeziouni/todo-golang
+```
 
 ## Project setup
 ```
